@@ -20,7 +20,7 @@ This extension bridges that gap.
 
 ## Pictures
 
-![alt text](image.png)
+![alt text](./screenshots/Screenshot_20251229_213929.png)
 
 ## Key Features
 
@@ -66,4 +66,9 @@ This tool does **not** guarantee safety, but helps users:
 1. Clone the repo
    ```bash
    git clone
+
+2. Enable Developer Mode in extensions 
+3. Use load unpacked and select this folder
+4. Load up a Binance P2P page
+5. Enjoy
 
