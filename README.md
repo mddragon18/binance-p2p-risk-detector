@@ -18,6 +18,10 @@ This extension bridges that gap.
 
 ---
 
+## Pictures
+
+![alt text](image.png)
+
 ## Key Features
 
 -  Scans Binance P2P ad listings in real time
